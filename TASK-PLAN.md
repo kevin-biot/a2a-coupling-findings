@@ -15,9 +15,8 @@ This plan resets the repository around one primary objective:
   later.
 - **DOP is secondary.** DOP material can stay only if it serves as a
   comparator, not as the headline.
-- **Public surface stays narrow.** Drafting, companion-framework
-  context, and speculative extensions must not dominate the repo
-  narrative.
+- **Public surface stays narrow.** Companion-framework context and
+  speculative extensions must not dominate the repo narrative.
 
 ## Workstreams
 
@@ -54,7 +53,7 @@ This plan resets the repository around one primary objective:
 ### 5. Secondary material containment
 
 - Keep `patterns/` as secondary support, not primary evidence.
-- Keep `drafting/` clearly internal.
+- Remove internal drafting material from the public repo.
 - Remove or rewrite placeholder reference notes and broken local links.
 
 ## Immediate Checklist
@@ -65,7 +64,9 @@ This plan resets the repository around one primary objective:
 - [x] Simplify `references/README.md` so it matches what actually ships.
 - [x] Promote a primary A2A findings document based on the measured T2
       sibling-coupling result.
-- [ ] Final pass on coherence, claim boundaries, and link hygiene.
+- [x] Final pass on coherence, claim boundaries, and link hygiene.
+- [x] Remove internal drafting material from the public repo.
+- [x] Add a compact definitions surface for reader-facing vocabulary.
 - [ ] Decide whether to add the stricter isolated-downstream
       replication line as a separate preliminary note or defer it.
 

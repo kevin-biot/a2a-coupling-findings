@@ -21,6 +21,8 @@ repo.
   method and provenance for the current measured A2A result.
 - [evidence/claim-classes.md](./evidence/claim-classes.md) — claim
   discipline for what is measured, inferred, or still provisional.
+- [definitions/README.md](./definitions/README.md) — compact glossary
+  for the core terms used in the findings note.
 - [TASK-PLAN.md](./TASK-PLAN.md) — current cleanup and publication plan.
 
 ## Upstream A2A Implementation
@@ -51,6 +53,8 @@ application code or raw trace archive.
 - [methods/](./methods/) — how the current A2A result was derived and
   how the stricter replication line is defined.
 - [evidence/](./evidence/) — provenance and claim-boundary discipline.
+- [definitions/](./definitions/) — reader-facing vocabulary and
+  concept definitions used in the findings notes.
 - [preregistration/](./preregistration/) — pre-registration material
   for the supporting SENTINEL re-analysis.
 - [patterns/](./patterns/) — secondary anti-pattern and repair-pattern
@@ -59,8 +63,6 @@ application code or raw trace archive.
   secondary repair-pattern / vaccine claims derived from the DOP rig.
 - [references/](./references/) — primary external anchor and citation
   context.
-- [drafting/](./drafting/) — internal working material kept in-repo but
-  intentionally off the main public reading path.
 
 ## Current Publication Stance
 
