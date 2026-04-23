@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this work, please also cite SENTINEL v1 and v2 — see ATTRIBUTION.md."
+title: "A2A Coupling Findings — Secondary Analysis of SENTINEL v2 and Preliminary Fan-out Sibling-Coupling Measurement"
+abstract: "This repository combines a pre-registered secondary analysis of Jason Gagne's SENTINEL v2 Governance Effectiveness release with a preliminary measured A2A fan-out result from the DOP research archive. In the measured T2 topology, two downstream specialists with no direct dialogue channel still reached mean pairwise S4 = 0.366 across 31 windows, indicating sibling coupling through shared-broker context. The repository also documents a stricter related replication line and the typed-intent architectural repair framing."
+authors:
+  - family-names: Brown
+    given-names: Kevin
+type: article
+license: CC-BY-4.0
+references:
+  - type: article
+    authors:
+      - family-names: Gagne
+        given-names: Jason
+    title: "SENTINEL: Behavioral Drift in Multi-Agent LLM Systems"
+    institution: "PreneurialWorks research"
+    doi: 10.5281/zenodo.19103616
+    url: "https://doi.org/10.5281/zenodo.19103616"
+    notes: "Foundational prior — SENTINEL v1."
+  - type: article
+    authors:
+      - family-names: Gagne
+        given-names: Jason
+    title: "Governance Effectiveness in Distributed Multi-Agent LLM Systems"
+    institution: "PreneurialWorks research"
+    doi: 10.5281/zenodo.19477188
+    url: "https://doi.org/10.5281/zenodo.19477188"
+    notes: "Primary anchor — SENTINEL v2; accidental-governance thesis."

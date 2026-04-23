@@ -1,0 +1,7 @@
+pair	mean_s4	n_windows
+FlightAgent↔TravelAgent	0.496381	31
+MealAgent↔SeatAgent	0.365782	31
+FlightAgent↔SeatAgent	0.342977	31
+FlightAgent↔MealAgent	0.330338	31
+MealAgent↔TravelAgent	0.048090	31
+SeatAgent↔TravelAgent	0.047837	31

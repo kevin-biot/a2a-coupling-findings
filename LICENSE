@@ -1,0 +1,28 @@
+Creative Commons Attribution 4.0 International (CC-BY-4.0)
+
+This license is applied to the TEXT of this repository once published.
+The repository is currently private and no license is yet exercised in
+public.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+## Attribution requirement
+
+Per Section 3(a), attribution of this work MUST include:
+
+- The present work's citation (see CITATION.cff).
+- Gagne's prior Sentinel framework as the primary dependency (see
+  ATTRIBUTION.md).
+
+Citing only the present work without citing Gagne is a violation of the
+attribution-discipline norm this repository is published under, even if
+it meets the bare letter of CC-BY-4.0 attribution requirements for this
+work alone.
+
+## What this license does not cover
+
+- The drift-engine implementation is not licensed under CC-BY-4.0 and is
+  not included in this repository.
+- Gagne's corpus and rig are licensed under their own license (see
+  ATTRIBUTION.md and references/gagne-sentinel.md); our use of them is
+  governed by that license, not this one.
