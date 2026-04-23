@@ -46,6 +46,33 @@ The measured headline result is:
 
 - `MealAgent ↔ SeatAgent`: `S4 = 0.366`
 
+## SENTINEL signal vocabulary
+
+This repo inherits part of a broader **SENTINEL** signal vocabulary.
+Readers may encounter references to `G*` labels in the supporting
+materials or in the upstream lineage.
+
+For the current public repo surface:
+
+- **G5** is the only `G*` signal used directly in the supporting
+  re-analysis path.
+- **4-gram overlap** is the other named SENTINEL signal that matters
+  directly here.
+- other `G*` labels belong to the broader upstream signal family, but
+  are not independently defined or used as headline measures in this
+  repo.
+
+The published signal catalogue we rely on is summarized in
+[references/gagne-sentinel.md](../references/gagne-sentinel.md) and
+discussed operationally in
+[methods/signal-class-description.md](../methods/signal-class-description.md).
+
+## G5
+
+**G5** is SENTINEL's Shannon-diversity signal over vocabulary and
+sentiment. In this repo it appears on the supporting SENTINEL
+re-analysis path as the published collapse-class reference signal.
+
 ## Direct dialogue channel
 
 A **direct dialogue channel** means one agent explicitly exchanges
