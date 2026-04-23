@@ -23,7 +23,6 @@ repo.
   discipline for what is measured, inferred, or still provisional.
 - [definitions/README.md](./definitions/README.md) — compact glossary
   for the core terms used in the findings note.
-- [TASK-PLAN.md](./TASK-PLAN.md) — current cleanup and publication plan.
 
 ## Upstream A2A Implementation
 
